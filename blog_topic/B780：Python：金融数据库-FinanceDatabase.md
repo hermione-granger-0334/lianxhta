@@ -1,4 +1,4 @@
-# B780：Python：金融数据库-FinanceDatabase
+# OK-陈卓然-B780：Python：金融数据库-FinanceDatabase
 
 写一篇推文介绍这个仓库和 Python 包。并在推文中插入几个简单的例子，来展示这个包的一些独特的功能。
 
